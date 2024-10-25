@@ -27,6 +27,10 @@ export default {
 
 <style>
 body {
-  background-color: #5193d4;
+  background-color: #95a2af;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
 };
 </style>
