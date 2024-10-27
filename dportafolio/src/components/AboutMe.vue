@@ -48,10 +48,16 @@ img {
   height: auto;
 }
 .text {
+  color: rgb(139, 117, 139);
+  font-family: "Roboto", serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: medium;
   float:right;
   width: 500px;
   height: 500px;
   margin-top: 100px;
+  margin-left: 700px;
   inline-size: 500px;
 }
 </style>
