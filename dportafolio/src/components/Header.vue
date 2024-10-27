@@ -33,8 +33,14 @@
   color:aqua;
 }
 
-  </style>
+.nav-link{
+  font-family: 'Roboto', sans-serif;
+  color:black;
+  size: 100px;
+}
 
+  </style>
+  
   <script>
 
   </script>

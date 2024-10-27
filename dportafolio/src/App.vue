@@ -27,7 +27,6 @@ export default {
 </script>
 
 <style>
-/* Estilos globales para el cuerpo */
 body {
   font-family: "Roboto", serif;
   font-weight: 700;
@@ -35,7 +34,6 @@ body {
   margin: 0;
 }
 
-/* Estilo para el fondo del #app */
 #app {
   background-image: url('@/assets/fondo2.jpg');
   background-size: cover;
