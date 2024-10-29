@@ -38,7 +38,7 @@ body {
   background-image: url('@/assets/fondo2.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   min-height: 100vh;
 }
 </style>

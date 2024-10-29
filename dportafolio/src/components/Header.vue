@@ -11,15 +11,15 @@
                 <a class="nav-link active" aria-current="page" href="#"></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Sobre mí</a>
+                <a class="nav-link" href="../components/AboutMe.vue">Sobre mí</a>
               </li>
               
               <li class="nav-item">
-                <a class="nav-link" href="#">Proyectos</a>
+                <a class="nav-link" href="../components/Projects.vue">Proyectos</a>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="#">Contacto</a>
+                <a class="nav-link" href="../components/Contact.vue">Contacto</a>
               </li>
             </ul>
            
