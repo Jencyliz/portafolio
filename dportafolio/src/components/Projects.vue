@@ -1,7 +1,9 @@
-<<template>
+<template>
   <section id="projects" class="my-5">
     <h2>Proyectos</h2>
-     <div>
+    <h5>Me gusta de este portafolio su estructura clara y el diseño simple. Sin embargo, considero que podría mejorar en la presentación de proyectos y agregar mas funcionalidades</h5>
+     <a href="https://jencyliz.github.io/Prueba-Viajes/">Ver mi portafolio</a>
+    <div>
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -30,7 +32,7 @@
           </div>
     </div>
     <div>
-      
+
     </div>
   </section>
 </template>

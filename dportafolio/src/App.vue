@@ -5,6 +5,7 @@
       <AboutMe />
       <Projects />
       <Contact />
+      <Footer /> 
     </main>
   </div>
 </template>
@@ -14,6 +15,7 @@ import Header from './components/Header.vue';
 import AboutMe from './components/AboutMe.vue';
 import Projects from './components/Projects.vue';
 import Contact from './components/Contact.vue';
+import Footer from './components/Footer.vue';
 
 export default {
   name: 'App',
@@ -21,7 +23,8 @@ export default {
     Header,
     AboutMe,
     Projects,
-    Contact
+    Contact,
+    Footer
   }
 }
 </script>
